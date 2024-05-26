@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+#gamecontainer {
+    text-align: center;
+    padding: 20px;
+    font-family: "Permenant", cursive;
+    font-size: 40px;
+    border: 5px solid black;
+}
+
+#scoretext {
+    font-family: "consolas", monospace;
+    font-size: 100px;
+}
+
+#restartbtn {
+    width: 150px;
+    height: 80px;
+    font-size: 35px;
+    border-radius: 30px;
+    border: 6px solid black;
+}
