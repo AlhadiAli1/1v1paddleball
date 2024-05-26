@@ -164,7 +164,7 @@ function restart() {
     paddle2 = {
         width: 25,
         height: 100,
-        x: gamewidth - unit,
+        x: gamewidth - 25,
         y: gameheight - 100
     }
     ballspeed = 1;
